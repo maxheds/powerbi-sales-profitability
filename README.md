@@ -1,4 +1,4 @@
-# powerbi-sales-profitability
+# Power BI: Sales & Profitability Dashboard
 Power BI Dashboard: Sales &amp; Profitability Dashboard with KPIs, Trends, and Item Group Profitability
 📊 Power BI: Sales & Profitability Dashboard
 
